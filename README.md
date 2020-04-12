@@ -1,4 +1,4 @@
-# Taiwanses-Food-101
+# Taiwanese-Food-101
 In this project, we propose how to create Taiwanese-Food-101 Dataset, how to use Deep Learning to train the model, and compare the accuracy of each famous model.
 ## Dataset
 We download the image from Google and Instagram to create Taiwanese-Food-101 Dataset. <br>
