@@ -1,0 +1,13 @@
+Instagram：
+   instalooter hashtag XXXXX FFFFF -n CCCCC
+	Example: instalooter hashtag sandwitch D:\Datasets\TaiwaneseDish\sandwitch -n 300
+
+Google：
+   googleimagesdownload -k "XXXXX" -l CCCCC --chromedriver="./chromedriver"
+	Example: googleimagesdownload -k "sandwitch" -l 300 --chromedriver="./chromedriver"
+
+
+
+XXXXX：The image name which you want to search.
+FFFFF：The filepath which you want to store.
+CCCCC：The quantity which tou want to download.
