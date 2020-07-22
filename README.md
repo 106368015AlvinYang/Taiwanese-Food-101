@@ -1,5 +1,9 @@
-# Taiwanese-Food-101 F
+# Taiwanese-Food-101
 In this project, we propose how to create Taiwanese-Food-101 Dataset, how to use Deep Learning to train the model, and compare the accuracy of each famous model.
+## Taiwanese-Food-101 Food Image Dataset
+* 101 Taiwanese food categories.
+* Each category has 200 images.
+* A total of 20,200 images
 ## Methods of Establishing Dataset
 We download the image from Google and Instagram to create Taiwanese-Food-101 Dataset. <br>
 The details of how we use Google and Instagram create Taiwanese-Food-101 Dataset method is in **Download-image-code.txt**.
