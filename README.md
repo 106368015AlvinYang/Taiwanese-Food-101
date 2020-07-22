@@ -3,7 +3,7 @@ In this project, we propose how to create Taiwanese-Food-101 Dataset, how to use
 ## Taiwanese-Food-101 Food Image Dataset
 * 101 Taiwanese food categories.
 * Each category has 200 images.
-* A total of 20,200 images.
+* A total of 20,200 images. <br>
 The dataset is available for download at https://drive.google.com/drive/folders/1wOdqes1KzEzp4DPG5jO8kHbFwcCmjzjh/.
 ## Methods of Establishing Dataset
 We download the image from Google and Instagram to create Taiwanese-Food-101 Dataset. <br>
