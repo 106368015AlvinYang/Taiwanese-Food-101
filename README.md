@@ -19,3 +19,4 @@ Model           | Top-1 Accuracy  | Top-5 Accuracy  | Size | Total params
 **DenseNet121** |      0.7886     |      0.9403     |  1.02MB| 91,345,573
 **ResNet34**    |      0.3536     |      0.6200     |  260MB| 22,738,277
 **MobileNet**   |      0.6973     |      0.9119     |  0.97GB| 87,536,933
+## A
