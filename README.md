@@ -21,11 +21,11 @@ Model           | Top-1 Accuracy  | Top-5 Accuracy  | Size | Total params
 **MobileNet**   |      0.6973     |      0.9119     |  0.97GB| 87,536,933
 ## Application
 We applied the model which we trained by Taiwanese-Food-101 food image dataset to develop a mobile application. This mobile application can recognize Taiwanese food and provide recipe and recommend restaurants.
-* Mobile application start. We can get photos from mobile camera or album.
+* Mobile application start. We can get photos from mobile camera or album.<br>
 ![avatar]()
-* Print category and accuracy of prediction results in text.
+* Print category and accuracy of prediction results in text.<br>
 ![avatar]()
-* We use web crawlers to capture recipes from "icook.tw".
+* We use web crawlers to capture recipes from "icook.tw".<br>
 ![avatar]()
-* We use web crawlers to capture recommended restaurants from "idoosie.tw".
+* We use web crawlers to capture recommended restaurants from "idoosie.tw".<br>
 ![avatar]()
