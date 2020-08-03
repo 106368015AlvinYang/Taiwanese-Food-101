@@ -20,4 +20,4 @@ Model           | Top-1 Accuracy  | Top-5 Accuracy  | Size | Total params
 **ResNet34**    |      0.3536     |      0.6200     |  260MB| 22,738,277
 **MobileNet**   |      0.6973     |      0.9119     |  0.97GB| 87,536,933
 ## Application
-![avatar](https://github.com/stratospark/food-101-keras/blob/master/demo.jpg)
+![avatar]()
