@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Keras_to_Android_Sample'
