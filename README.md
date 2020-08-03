@@ -22,10 +22,10 @@ Model           | Top-1 Accuracy  | Top-5 Accuracy  | Size | Total params
 ## Application
 We applied the model which we trained by Taiwanese-Food-101 food image dataset to develop a mobile application. This mobile application can recognize Taiwanese food and provide recipe and recommend restaurants.
 * Mobile application start. We can get photos from mobile camera or album.<br>
-![avatar]()
+![avatar](https://github.com/106368015AlvinYang/Taiwanese-Food-101/blob/master/app1.jpg)
 * Print category and accuracy of prediction results in text.<br>
-![avatar]()
+![avatar](https://github.com/106368015AlvinYang/Taiwanese-Food-101/blob/master/app2.jpg)
 * We use web crawlers to capture recipes from "icook.tw".<br>
-![avatar]()
+![avatar](https://github.com/106368015AlvinYang/Taiwanese-Food-101/blob/master/app3.jpg)
 * We use web crawlers to capture recommended restaurants from "idoosie.tw".<br>
-![avatar]()
+![avatar](https://github.com/106368015AlvinYang/Taiwanese-Food-101/blob/master/app4.jpg)
